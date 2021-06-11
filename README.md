@@ -1,5 +1,5 @@
 # Vb6-Style-Guide
-Uma abordagem prática para escrita de codigos VB6
+Uma abordagem prática para escrita de códigos VB6
 
 ## Conteúdo
 
